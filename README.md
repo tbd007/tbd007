@@ -4,7 +4,7 @@
 
 ## Hi! I am Tanja Babic-Debrosse, a webdesigner and aspiring MERN & MEAN Developer.
 I'm a Front-End Developer from Vienna, Austria.
-I have serious passion for <coding/>,  UI, layouts and animations and I love creating intuitive, dynamic user experiences.
+I have serious passion for code, UI, layouts and animations. I love creating intuitive, dynamic user experiences.
 
 ![stack](https://user-images.githubusercontent.com/58664635/88584233-a0fbb400-d051-11ea-92bc-cfa842be38f1.png)
 
