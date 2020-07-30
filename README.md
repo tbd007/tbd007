@@ -10,8 +10,6 @@ I have serious passion for code, UI, layouts and animations. I love creating int
 
 
 
-
-
 - 🔭 I’m currently working on: my MERN Stack 
 - 🌱 I’m currently learning: REACT & REACT NATIVE
 - 📫 How to reach me: babicdebrosse@outlook.de
