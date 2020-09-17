@@ -12,3 +12,7 @@ I have serious passion for code, UI, layouts and animations. I love creating int
 - 🌱 I’m currently learning: REACT & REACT NATIVE
 - 📫 How to reach me: babicdebrosse@outlook.de
 - ⚡ Fun fact: dreamed of being a secret service agent | scared of horses 😱🐴
+
+
+[![Tanja's github stats](https://github-readme-stats.vercel.app/api?username=tbd007&show_icons=true&hide=contribs,prs,stars)](https://github.com/tbd007/github-readme-stats)
+
